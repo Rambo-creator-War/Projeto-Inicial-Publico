@@ -20,8 +20,8 @@ Exemplo inicial : Autismo / Tdh / hiperatividade
 
 Descrição:
 
-Este projeto visa criar um aplicativo web inclusivo que ajude crianças com necessidades especiais a encontrar
-locais que ofereçam esportes adaptados dentro de um estado específico. 
+Este projeto visa criar um aplicativo / pagina web inclusivo que ajude crianças com necessidades especiais a encontrar
+locais que ofereçam esportes adaptados dentro do estado ou municipio. 
 A aplicação fornece informações sobre centros esportivos, associações e clubes que oferecem atividades físicas, 
 tanto gratuitas quanto pagas, garantindo que as crianças possam participar de forma acessível e segura.
 
