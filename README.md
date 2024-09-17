@@ -18,7 +18,7 @@ Inclusivo para Crianças com Necessidades Especiais.
 
 Exemplo inicial : Autismo / Tdah 
 
-Descrição:
+Descrição: https://blog.neuromaster.inf.br/wp-content/uploads/2024/06/crianca-hiperativa-como-lidar.jpeg
 
 Este projeto visa criar um aplicativo / e / ou pagina web inclusivo que ajude crianças com necessidades especiais a encontrar
 locais que ofereçam esportes adaptados dentro do estado ou municipio. 
