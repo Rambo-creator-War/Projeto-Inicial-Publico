@@ -16,7 +16,7 @@ Aplicativo e/ou Pagina WEB
 
 Inclusivo para Crianças com Necessidades Especiais.
 
-Exemplo inicial : Autismo / Tdh / hiperatividade 
+Exemplo inicial : Autismo / Tdah / Hiperatividade 
 
 Descrição:
 
