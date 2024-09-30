@@ -30,5 +30,8 @@ tanto gratuitas quanto pagas, garantindo que as crianças possam participar de f
 
 Segue Link criado via forms , para pesquisa e coleta de dados referente a iniciação do projeto.
 
+https://forms.gle/daFjB2kkyNgHV9wZA
+https://docs.google.com/forms/d/e/1FAIpQLSfcn5-Pj2lbI5mswNqtx_hx8rww48nktRhyE9y_1Rx_5h6pPA/viewform?usp=sf_link
+
 
 
