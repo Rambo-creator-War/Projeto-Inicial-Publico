@@ -35,5 +35,7 @@ https://forms.gle/XUWHvZdCoD1VNduZ8
 
 https://docs.google.com/forms/d/e/1FAIpQLSfcn5-Pj2lbI5mswNqtx_hx8rww48nktRhyE9y_1Rx_5h6pPA/viewform?usp=sf_link
 
+Abaixo segue link da persona criado em sala na data do dia 14/10/2024
+https://www.geradordepersonas.com.br/result-840OZ-7662BW.html
 
 
