@@ -39,4 +39,6 @@ Abaixo segue link da persona criado em sala na data do dia 14/10/2024
 
 https://www.geradordepersonas.com.br/result-840OZ-7662BW.html
 
+https://www.geradordepersonas.com.br/result-840OZ-7662BW.html
+
 
